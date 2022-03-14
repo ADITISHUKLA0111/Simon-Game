@@ -1,5 +1,5 @@
 # Simon-Game
-The user has to press the buttons as shown by the game in order to keep playing and progress to higher level.
+The user has to press the buttons as shown by the game in order to keep playing and progress to higher levels.
 
 # Technologies used
 
